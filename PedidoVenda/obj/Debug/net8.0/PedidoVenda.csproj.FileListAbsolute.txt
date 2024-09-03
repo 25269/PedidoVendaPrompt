@@ -1,0 +1,14 @@
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\bin\Debug\net8.0\PedidoVenda.exe
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\bin\Debug\net8.0\PedidoVenda.deps.json
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\bin\Debug\net8.0\PedidoVenda.runtimeconfig.json
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\bin\Debug\net8.0\PedidoVenda.dll
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\bin\Debug\net8.0\PedidoVenda.pdb
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\obj\Debug\net8.0\PedidoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\obj\Debug\net8.0\PedidoVenda.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\obj\Debug\net8.0\PedidoVenda.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\obj\Debug\net8.0\PedidoVenda.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\obj\Debug\net8.0\PedidoVenda.dll
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\obj\Debug\net8.0\refint\PedidoVenda.dll
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\obj\Debug\net8.0\PedidoVenda.pdb
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\obj\Debug\net8.0\PedidoVenda.genruntimeconfig.cache
+C:\Users\Windows 10\source\repos\PedidoVenda\PedidoVenda\obj\Debug\net8.0\ref\PedidoVenda.dll
