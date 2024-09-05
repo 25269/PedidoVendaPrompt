@@ -4,25 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PedidoVenda.Entities
+namespace PedidoVendaPrompt.Entities
 {
     internal class OrderItem
     {
-        public int quantity { get; set; }
-        public double price { get; set; }
-        public Product product { get; set; }
+        public int Quantity { get; set; }
+        public double Price { get; set; }
+        public Product Product { get; set; }
 
         public OrderItem() { }
 
         public OrderItem (int quantity, double price)
         {
-            this.quantity = quantity;
-            this.price = price;
+            this.Quantity = quantity;
+            this.Price = price;
         }
 
         public double subTotal()
         {
-            return quantity * price;
+            return Quantity * Price;
         }
     }
 }

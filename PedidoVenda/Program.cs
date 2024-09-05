@@ -1,9 +1,9 @@
 ﻿using System;
-using PedidoVenda.Entities;
-using PedidoVenda.Entities.Enums;
+using PedidoVendaPrompt.Entities;
+using PedidoVendaPrompt.Entities.Enums;
 using System.Globalization;
 
-namespace PedidoVenda
+namespace PedidoVendaPrompt
 {
     public class Program
     {
@@ -11,27 +11,27 @@ namespace PedidoVenda
         {
             int qtyItems;
 
-            Client client = new Client();
-            Order order = new Order();
+            Client Client = new Client();
+            Order Order = new Order();
             
-            Console.WriteLine("Enter cliente data: ");
+            Console.WriteLine("Enter client data: ");
 
             Console.Write("Name: ");
-            client.name = Console.ReadLine();
+            Client.Name = Console.ReadLine();
 
             Console.Write("E-mail: ");
-            client.email = Console.ReadLine();
+            Client.Email = Console.ReadLine();
 
             Console.Write("Birth Date (DD/MM/YYYY): ");
-            client.birthDate = DateOnly.Parse(Console.ReadLine());
+            Client.BirthDate = DateOnly.Parse(Console.ReadLine());
 
-            order.client = client;
+            Order.Client = Client;
 
             Console.WriteLine("Enter order data: ");
 
             Console.Write("Status: ");
             OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
-            order.status = status;
+            Order.Status = status;
 
             Console.Write("How many items to this order? ");
             qtyItems = int.Parse(Console.ReadLine());
@@ -44,26 +44,26 @@ namespace PedidoVenda
                 Console.WriteLine($"Enter #{i + 1} item data: ");
 
                 Console.Write("Product name: ");
-                product.name = Console.ReadLine();
+                product.Name = Console.ReadLine();
 
                 Console.Write("Product price: ");
-                product.price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                product.Price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 Console.Write("Quantity: ");
-                orderItem.quantity = int.Parse(Console.ReadLine());
+                orderItem.Quantity = int.Parse(Console.ReadLine());
 
-                orderItem.price = product.price;
+                orderItem.Price = product.Price;
 
-                orderItem.product = product;
+                orderItem.Product = product;
 
-                order.addItem(orderItem);
+                Order.addItem(orderItem);
 
                 Console.WriteLine();
             }
 
-            order.moment = DateTime.UtcNow;
+            Order.Moment = DateTime.UtcNow;
 
-            Console.WriteLine(order.ToString());
+            Console.WriteLine(Order.ToString());
         }
     }
 }

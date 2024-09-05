@@ -1,0 +1,15 @@
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\bin\Debug\net8.0\PedidoVendaPrompt.exe
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\bin\Debug\net8.0\PedidoVendaPrompt.deps.json
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\bin\Debug\net8.0\PedidoVendaPrompt.runtimeconfig.json
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\bin\Debug\net8.0\PedidoVendaPrompt.dll
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\bin\Debug\net8.0\PedidoVendaPrompt.pdb
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\obj\Debug\net8.0\PedidoVendaPrompt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\obj\Debug\net8.0\PedidoVendaPrompt.AssemblyInfoInputs.cache
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\obj\Debug\net8.0\PedidoVendaPrompt.AssemblyInfo.cs
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\obj\Debug\net8.0\PedidoVendaPrompt.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\obj\Debug\net8.0\PedidoVendaPrompt.sourcelink.json
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\obj\Debug\net8.0\PedidoVendaPrompt.dll
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\obj\Debug\net8.0\refint\PedidoVendaPrompt.dll
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\obj\Debug\net8.0\PedidoVendaPrompt.pdb
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\obj\Debug\net8.0\PedidoVendaPrompt.genruntimeconfig.cache
+C:\Temp\Projetos C#\PedidoVendaPrompt\PedidoVenda\obj\Debug\net8.0\ref\PedidoVendaPrompt.dll

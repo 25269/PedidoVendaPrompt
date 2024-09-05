@@ -1,24 +1,24 @@
 ﻿using System;
-using PedidoVenda.Entities.Enums;
+using PedidoVendaPrompt.Entities.Enums;
 using System.Text;
 using System.Globalization;
 
-namespace PedidoVenda.Entities
+namespace PedidoVendaPrompt.Entities
 {
     internal class Order
     {
-        public DateTime moment { get; set; }
-        public OrderStatus status { get; set; }
+        public DateTime Moment { get; set; }
+        public OrderStatus Status { get; set; }
         List<OrderItem> items { get; set; } = new List<OrderItem>();
         List<Product> products { get; set; } = new List<Product>();
-        public Client client { get; set; }
+        public Client Client { get; set; }
 
         public Order() { }
 
         public Order(DateTime moment, OrderStatus status)
         {
-            this.moment = moment;
-            this.status = status;
+            this.Moment = moment;
+            this.Status = status;
         }
 
         public void addItem(OrderItem item)
@@ -46,14 +46,14 @@ namespace PedidoVenda.Entities
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("Order Summary: ");
-            sb.AppendLine($"Order moment: {moment}");
-            sb.AppendLine($"Order status: {status.ToString()}");
-            sb.AppendLine($"Client: {client.name} ({client.birthDate}) - {client.email} ");
+            sb.AppendLine($"Order moment: {Moment}");
+            sb.AppendLine($"Order status: {Status.ToString()}");
+            sb.AppendLine($"Client: {Client.Name} ({Client.BirthDate}) - {Client.Email} ");
             sb.AppendLine("Order items: ");
 
             foreach (OrderItem item in items)
             {
-               sb.AppendLine($"{item.product.name}, R$ {item.product.price},  Quantity: {item.quantity}, Subtotal: R$ " + (item.subTotal()).ToString("F2", CultureInfo.InvariantCulture));
+               sb.AppendLine($"{item.Product.Name}, R$ {item.Product.Price},  Quantity: {item.Quantity}, Subtotal: R$ " + (item.subTotal()).ToString("F2", CultureInfo.InvariantCulture));
             }
 
             sb.AppendLine("Total price: R$ " + total().ToString("F2", CultureInfo.InvariantCulture));

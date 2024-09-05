@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\",
+  "WorkspaceRootPath": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|c:\\users\\windows 10\\source\\repos\\pedidovenda\\pedidovenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|solutionrelative:pedidovenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|c:\\users\\windows 10\\source\\repos\\pedidovenda\\pedidovenda\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|solutionrelative:pedidovenda\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|c:\\users\\windows 10\\source\\repos\\pedidovenda\\pedidovenda\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|solutionrelative:pedidovenda\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|c:\\users\\windows 10\\source\\repos\\pedidovenda\\pedidovenda\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|solutionrelative:pedidovenda\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|c:\\users\\windows 10\\source\\repos\\pedidovenda\\pedidovenda\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|solutionrelative:pedidovenda\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|c:\\users\\windows 10\\source\\repos\\pedidovenda\\pedidovenda\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVenda.csproj|solutionrelative:pedidovenda\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVendaPrompt.csproj|c:\\temp\\projetos c#\\pedidovendaprompt\\pedidovenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVendaPrompt.csproj|solutionrelative:pedidovenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Entities\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "PedidoVenda\\Entities\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Entities\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "PedidoVenda\\Entities\\Enums\\OrderStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:24:45.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Entities\\Client.cs",
-              "RelativeDocumentMoniker": "PedidoVenda\\Entities\\Client.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Entities\\Client.cs",
-              "RelativeToolTip": "PedidoVenda\\Entities\\Client.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:24:24.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "PedidoVenda\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Entities\\Product.cs",
-              "RelativeToolTip": "PedidoVenda\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:24:12.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Entities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "PedidoVenda\\Entities\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "PedidoVenda\\Entities\\OrderItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:23:55.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "PedidoVenda\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Entities\\Order.cs",
-              "RelativeToolTip": "PedidoVenda\\Entities\\Order.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAzwDoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:23:34.638Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Program.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\Program.cs",
               "RelativeDocumentMoniker": "PedidoVenda\\Program.cs",
-              "ToolTip": "C:\\Users\\Windows 10\\source\\repos\\PedidoVenda\\PedidoVenda\\Program.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\Program.cs",
               "RelativeToolTip": "PedidoVenda\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:19:45.909Z",
+              "WhenOpened": "2024-09-05T00:52:05.701Z",
               "EditorCaption": ""
             }
           ]

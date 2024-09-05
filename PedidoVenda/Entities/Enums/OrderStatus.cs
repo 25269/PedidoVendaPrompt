@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PedidoVenda.Entities.Enums
+namespace PedidoVendaPrompt.Entities.Enums
 {
         enum OrderStatus : int
         {

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\PedidoVenda.csproj": {}
+    "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\PedidoVendaPrompt.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\PedidoVenda.csproj": {
+    "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\PedidoVendaPrompt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\PedidoVenda.csproj",
-        "projectName": "PedidoVenda",
-        "projectPath": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\PedidoVenda.csproj",
+        "projectUniqueName": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\PedidoVendaPrompt.csproj",
+        "projectName": "PedidoVendaPrompt",
+        "projectPath": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\PedidoVendaPrompt.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
         "outputPath": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\obj\\",
         "projectStyle": "PackageReference",
