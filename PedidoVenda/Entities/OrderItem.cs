@@ -20,7 +20,7 @@ namespace PedidoVendaPrompt.Entities
             this.Price = price;
         }
 
-        public double subTotal()
+        public double SubTotal()
         {
             return Quantity * Price;
         }

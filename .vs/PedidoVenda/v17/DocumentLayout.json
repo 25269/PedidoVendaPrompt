@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVendaPrompt.csproj|c:\\temp\\projetos c#\\pedidovendaprompt\\pedidovenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVendaPrompt.csproj|solutionrelative:pedidovenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVendaPrompt.csproj|c:\\temp\\projetos c#\\pedidovendaprompt\\pedidovenda\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVendaPrompt.csproj|solutionrelative:pedidovenda\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVendaPrompt.csproj|c:\\temp\\projetos c#\\pedidovendaprompt\\pedidovenda\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVendaPrompt.csproj|solutionrelative:pedidovenda\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVendaPrompt.csproj|c:\\temp\\projetos c#\\pedidovendaprompt\\pedidovenda\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D39B96-EB98-46CD-B0FC-4514FA45D7ED}|PedidoVenda\\PedidoVendaPrompt.csproj|solutionrelative:pedidovenda\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "PedidoVenda\\Entities\\Client.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\Entities\\Client.cs",
+              "RelativeToolTip": "PedidoVenda\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:28:36.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "PedidoVenda\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "PedidoVenda\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:28:11.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "PedidoVenda\\Entities\\Order.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\Entities\\Order.cs",
+              "RelativeToolTip": "PedidoVenda\\Entities\\Order.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:27:38.28Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "PedidoVenda\\Program.cs",
               "ToolTip": "C:\\Temp\\Projetos C#\\PedidoVendaPrompt\\PedidoVenda\\Program.cs",
               "RelativeToolTip": "PedidoVenda\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T00:52:05.701Z",
               "EditorCaption": ""

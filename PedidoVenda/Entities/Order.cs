@@ -21,23 +21,23 @@ namespace PedidoVendaPrompt.Entities
             this.Status = status;
         }
 
-        public void addItem(OrderItem item)
+        public void AddItem(OrderItem item)
         {
             items.Add(item);
         }
 
-        public void removeItem(OrderItem item)
+        public void RemoveItem(OrderItem item)
         {
             items.Remove(item);
         }
 
-        public double total()
+        public double Total()
         {
             double totalOrdem = 0;
 
             foreach (OrderItem item in items)
             {
-                totalOrdem += item.subTotal();
+                totalOrdem += item.SubTotal();
             }
             return totalOrdem;
         }
@@ -53,10 +53,10 @@ namespace PedidoVendaPrompt.Entities
 
             foreach (OrderItem item in items)
             {
-               sb.AppendLine($"{item.Product.Name}, R$ {item.Product.Price},  Quantity: {item.Quantity}, Subtotal: R$ " + (item.subTotal()).ToString("F2", CultureInfo.InvariantCulture));
+               sb.AppendLine($"{item.Product.Name}, R$ {item.Product.Price},  Quantity: {item.Quantity}, Subtotal: R$ " + (item.SubTotal()).ToString("F2", CultureInfo.InvariantCulture));
             }
 
-            sb.AppendLine("Total price: R$ " + total().ToString("F2", CultureInfo.InvariantCulture));
+            sb.AppendLine("Total price: R$ " + Total().ToString("F2", CultureInfo.InvariantCulture));
 
             return sb.ToString();
         }

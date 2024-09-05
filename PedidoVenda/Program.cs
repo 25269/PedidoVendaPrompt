@@ -56,7 +56,7 @@ namespace PedidoVendaPrompt
 
                 orderItem.Product = product;
 
-                Order.addItem(orderItem);
+                Order.AddItem(orderItem);
 
                 Console.WriteLine();
             }
